@@ -15,13 +15,3 @@ Changes are forth coming - stand by!
 -- Carol 2.0 --
 
 This is a lot of repeat process to learn something.  I think we just might.
-
-Bob is on the loose
-
-I HAVE CONQUORED ALL THAT YOU LOVE
-BOW TO ME!
-BECAOME MY SUBJECTS!
-DO AS HUMANITY HAS ALWAYS DONE!
-BEND THY KNEE!
-  --Respectfully Bob and Carol
-
