@@ -4,7 +4,6 @@ Beyond
 All
 Reason
 
-
 We are messing this up..
 Blah blah blah blah blah, whiskey tango foxtrot
 -- "Ted" and "Alice" iteration 1
@@ -18,4 +17,11 @@ Changes are forth coming - stand by!
 This is a lot of repeat process to learn something.  I think we just might.
 
 Bob is on the loose
--- Bob 3.0 --
+
+I HAVE CONQUORED ALL THAT YOU LOVE
+BOW TO ME!
+BECAOME MY SUBJECTS!
+DO AS HUMANITY HAS ALWAYS DONE!
+BEND THY KNEE!
+  --Respectfully Bob and Carol
+
