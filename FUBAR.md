@@ -16,16 +16,8 @@ Changes are forth coming - stand by!
 
 now we can continue
 
-adf;kgjhadfghjkad;klghja  |
-a'lgn;aekrgbrgn           |
-'gfeajk;b;kaejbgbk;era    | Ted-4 doesn't like these and wants to delete thim in PR review
-as;dkfjbrh                |
-=======
-adf;kgjhadfghjkad;klghja
-a'lgn;aekrgbrgn
-'gfeajk;b;kaejbgbk;era
-as;dkfjbrh
-
 THE LEGION IS CALLING!
 THE MORTALS SHALL BE CONQUORED! 
 F*** YOU, MORTY!
+
+Come'on Morty, lets go, *burp*, take over the world Morty. *Walking away drunkenly*
