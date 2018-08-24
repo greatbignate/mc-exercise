@@ -16,7 +16,7 @@ Changes are forth coming - stand by!
 
 This is a lot of repeat process to learn something.  I think we just might.
 
-adf;kgjhadfghjkad;klghja
-a'lgn;aekrgbrgn
-'gfeajk;b;kaejbgbk;era
-as;dkfjbrh
+adf;kgjhadfghjkad;klghja  |
+a'lgn;aekrgbrgn           |
+'gfeajk;b;kaejbgbk;era    | Ted-4 doesn't like these and wants to delete thim in PR review
+as;dkfjbrh                |
