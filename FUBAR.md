@@ -6,8 +6,15 @@ Reason
 
 
 We are messing this up..
-Blah blah blah blah blah, whiskey tango foxtrot
--- "Ted" and "Alice" iteration 1
+Blah blah blah blah blah, whiskey tango foxtrot // Carol comment iteration 1.2 "Don't be a blue falcon"//
+-- "Ted" and "Alice" iteration 1 
 
 Life is like a box of chocolates, you never know what you're going to get
 -- "Ted" and "Alice" iteration 2
+
+Situation
+Normal
+All
+Farkled
+Up
+-- Carol iteration 1.2
