@@ -16,18 +16,9 @@ Changes are forth coming - stand by!
 
 now we can continue
 
-adf;kgjhadfghjkad;klghja  |
-a'lgn;aekrgbrgn           |
-'gfeajk;b;kaejbgbk;era    | Ted-4 doesn't like these and wants to delete thim in PR review
-as;dkfjbrh                |
-=======
-adf;kgjhadfghjkad;klghja
-a'lgn;aekrgbrgn
-'gfeajk;b;kaejbgbk;era
-as;dkfjbrh
-
 THE LEGION IS CALLING!
 THE MORTALS SHALL BE CONQUORED! 
+<<<<<<< HEAD
 <<<<<<< HEAD
 F*** YOU, MORTY!
 
@@ -38,3 +29,8 @@ To the moooon, Alice!
 
 Alice change #4 -- great work team
 >>>>>>> 25c5b97353b704566828958dcea6bd161351166b
+=======
+F*** YOU, MORTY!
+
+Come'on Morty, lets go, *burp*, take over the world Morty. *Walking away drunkenly*
+>>>>>>> fea2a06865c5d2adb51a8b0e54524aef87b3b518
