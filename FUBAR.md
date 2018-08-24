@@ -4,7 +4,6 @@ Beyond
 All
 Reason
 
-
 We are messing this up..
 Blah blah blah blah blah, whiskey tango foxtrot
 -- "Ted" and "Alice" iteration 1
@@ -16,14 +15,3 @@ Changes are forth coming - stand by!
 -- Carol 2.0 --
 
 This is a lot of repeat process to learn something.  I think we just might.
-
-
-working on the 3rd iteraration so we can get finished on on to the next part
-
-a;skdfh hk;fg wa
-a ;gkjah ;ihawg
-p[awj flhajgf;khjbf 
-;wmflshjvbfljksbflks;f
-[W NBFLJsHBF;IHKBF
-[KFM;SKljbF;HFG;AIB]]]
-
