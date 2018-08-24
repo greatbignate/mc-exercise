@@ -17,3 +17,13 @@ Changes are forth coming - stand by!
 
 This is a lot of repeat process to learn something.  I think we just might.
 
+
+working on the 3rd iteraration so we can get finished on on to the next part
+
+a;skdfh hk;fg wa
+a ;gkjah ;ihawg
+p[awj flhajgf;khjbf 
+;wmflshjvbfljksbflks;f
+[W NBFLJsHBF;IHKBF
+[KFM;SKljbF;HFG;AIB]]]
+
