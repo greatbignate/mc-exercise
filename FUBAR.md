@@ -5,9 +5,5 @@ All
 Reason
 
 
-We are messing this up..
-Blah blah blah blah blah, whiskey tango foxtrot
--- "Ted" and "Alice" iteration 1
-
-Life is like a box of chocolates, you never know what you're going to get
--- "Ted" and "Alice" iteration 2
+"It's a proven fact that it's the sweetest sound to a person's ear is the sound of their own name."
+--Alice and Bob's journey through GitHub
