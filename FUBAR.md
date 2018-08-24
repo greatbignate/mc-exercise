@@ -20,3 +20,6 @@ adf;kgjhadfghjkad;klghja  |
 a'lgn;aekrgbrgn           |
 'gfeajk;b;kaejbgbk;era    | Ted-4 doesn't like these and wants to delete thim in PR review
 as;dkfjbrh                |
+removed the crazy test
+
+now we can continue
