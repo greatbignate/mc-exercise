@@ -20,8 +20,5 @@ Up
 -- Carol iteration 1.2
 "It's a proven fact that it's the sweetest sound to a person's ear is the sound of their own name."
 --Alice and Bob's journey through GitHub
- 
- --Ted iteration 2.0
- "Your attitude, not your aptitude, will determine your altitude."
- Ted and Alice are better than Bob and Carol
- We rock Suckkas
+
+NO CHANGES!
