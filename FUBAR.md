@@ -1,8 +1,8 @@
-Farkled 
-Up
-Beyond
-All
-Reason
+Farkled | Situation
+Up      | Normal
+Beyond  | All
+All     | Farkled
+Reason  | Up
 
 We are messing this up..
 Blah blah blah blah blah, whiskey tango foxtrot
