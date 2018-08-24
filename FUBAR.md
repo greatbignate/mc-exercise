@@ -16,6 +16,11 @@ Changes are forth coming - stand by!
 
 This is a lot of repeat process to learn something.  I think we just might.
 
-removed the crazy test
+adf;kgjhadfghjkad;klghja
+a'lgn;aekrgbrgn
+'gfeajk;b;kaejbgbk;era
+as;dkfjbrh
 
-now we can continue
+THE LEGION IS CALLING!
+THE MORTALS SHALL BE CONQUORED! 
+F*** YOU, MORTY!
